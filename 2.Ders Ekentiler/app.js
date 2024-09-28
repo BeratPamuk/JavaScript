@@ -1,0 +1,3 @@
+// ! önemli
+
+console.log('Berat')
