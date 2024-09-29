@@ -1,2 +1,1 @@
-**JavaScript Ders Notları**
-# Deneme
+**# JavaScript Ders Notları**
