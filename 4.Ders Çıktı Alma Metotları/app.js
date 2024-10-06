@@ -5,4 +5,4 @@ document.writeln("Welcome, <br> Dear Berat Pamuk"); //sayfaya yazdırır
 console.log("Hello World"); //console yazdırır
 
 //3.Yöntem (Uyarı çıktısı)
-alert("Hello World");
+alert("E-Posta veya Parola yanlış");
